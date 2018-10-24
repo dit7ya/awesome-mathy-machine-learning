@@ -1,0 +1,20 @@
+* Awesome Math-y Machine Learning
+
+Are you frustrated that introductory *Machine Learning* courses just aren't math-heavy, or even rigorous enough? Are you very irritated all the interesting papers with deep theoretical results just don't get the attention they deserve?
+Are you looking for juicy rigorous and elegant math heavy content related to Machine Learning?
+
+Well, you have come to the right place.
+
+** Papers
+*** [[https://arxiv.org/abs/1805.07091][Tropical Geometry of Deep Neural Networks]] by Zhang et al.
+*** [[https://arxiv.org/abs/1608.08225][Why does deep and cheap learning work so well?]] by Lin at al.
+** Books
+*** [[deeplearningbook.org][Deep Learning]] by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+*** [[http://incompleteideas.net/book/ebook/the-book.html][Reinforcement Learning: An Introduction]] by Richard Sutton
+*** [[http://cs.huji.ac.il/~shais/UnderstandingMachineLearning/][Understanding Machine Learning: From Theory to Algorithms]] by Shai Shalev-Shwartz and Shai Ben-David
+*** [[https://www.math.uci.edu/%7Ervershyn/papers/HDP-book/HDP-book.pdf][High-Dimensional Probability]] by Roman Vershynin
+** Courses
+*** [[https://bloomberg.github.io/foml/][Foundations of Machine Learning]] by David S. Rosenberg @ Bloomberg
+*** [[https://stats385.github.io/][Theories of Deep Learning]] by Donoho, Monajemi, and Papyan @ Stanford
+** Blog Posts/ Tutorials etc.
+*** [[https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/][Neural Networks, Manifolds, and Topology]] by Chris Olah
