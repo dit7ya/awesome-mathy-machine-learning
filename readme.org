@@ -10,6 +10,7 @@ Well, you have come to the right place.
 ** Papers
 - [[https://arxiv.org/abs/1805.07091][Tropical Geometry of Deep Neural Networks]] by Zhang et al.
 - [[https://arxiv.org/abs/1608.08225][Why does deep and cheap learning work so well?]] by Lin at al.
+- [[https://arxiv.org/abs/1811.03804][Gradient Descent Finds Global Minima of Deep Neural Networks]] by Du et al.
 ** Books
 - [[deeplearningbook.org][Deep Learning]] by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [[http://incompleteideas.net/book/ebook/the-book.html][Reinforcement Learning: An Introduction]] by Richard Sutton
