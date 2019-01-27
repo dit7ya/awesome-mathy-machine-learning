@@ -16,6 +16,7 @@ Well, you have come to the right place.
 - [[http://incompleteideas.net/book/ebook/the-book.html][Reinforcement Learning: An Introduction]] by Richard Sutton
 - [[http://cs.huji.ac.il/~shais/UnderstandingMachineLearning/][Understanding Machine Learning: From Theory to Algorithms]] by Shai Shalev-Shwartz and Shai Ben-David
 - [[https://www.math.uci.edu/%7Ervershyn/papers/HDP-book/HDP-book.pdf][High-Dimensional Probability]] by Roman Vershynin
+- [[http://math.mit.edu/~gs/learningfromdata/][Linear Algebra and Learning from Data]] - Gilbert Strang
 ** Courses
 - [[https://bloomberg.github.io/foml/][Foundations of Machine Learning]] by David S. Rosenberg @ Bloomberg
 - [[https://stats385.github.io/][Theories of Deep Learning]] by Donoho, Monajemi, and Papyan @ Stanford
