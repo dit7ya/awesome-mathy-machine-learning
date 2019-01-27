@@ -11,12 +11,13 @@ Well, you have come to the right place.
 - [[https://arxiv.org/abs/1805.07091][Tropical Geometry of Deep Neural Networks]] by Zhang et al.
 - [[https://arxiv.org/abs/1608.08225][Why does deep and cheap learning work so well?]] by Lin at al.
 - [[https://arxiv.org/abs/1811.03804][Gradient Descent Finds Global Minima of Deep Neural Networks]] by Du et al.
+- [[https://arxiv.org/abs/1805.10451][Geometric Understanding of Deep Learning]] by Lei et al.
 ** Books
 - [[http://deeplearningbook.org][Deep Learning]] by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [[http://incompleteideas.net/book/ebook/the-book.html][Reinforcement Learning: An Introduction]] by Richard Sutton
 - [[http://cs.huji.ac.il/~shais/UnderstandingMachineLearning/][Understanding Machine Learning: From Theory to Algorithms]] by Shai Shalev-Shwartz and Shai Ben-David
 - [[https://www.math.uci.edu/%7Ervershyn/papers/HDP-book/HDP-book.pdf][High-Dimensional Probability]] by Roman Vershynin
-- [[http://math.mit.edu/~gs/learningfromdata/][Linear Algebra and Learning from Data]] - Gilbert Strang
+- [[http://math.mit.edu/~gs/learningfromdata/][Linear Algebra and Learning from Data]] by Gilbert Strang
 ** Courses
 - [[https://bloomberg.github.io/foml/][Foundations of Machine Learning]] by David S. Rosenberg @ Bloomberg
 - [[https://stats385.github.io/][Theories of Deep Learning]] by Donoho, Monajemi, and Papyan @ Stanford
