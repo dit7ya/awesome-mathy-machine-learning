@@ -12,6 +12,7 @@ Well, you have come to the right place.
 - [[https://arxiv.org/abs/1608.08225][Why does deep and cheap learning work so well?]] by Lin at al.
 - [[https://arxiv.org/abs/1811.03804][Gradient Descent Finds Global Minima of Deep Neural Networks]] by Du et al.
 - [[https://arxiv.org/abs/1805.10451][Geometric Understanding of Deep Learning]] by Lei et al.
+- [[https://arxiv.org/abs/1901.11524][The Value Function Polytope in Reinforcement Learning]] by Dadashi et al.
 ** Books
 - [[http://deeplearningbook.org][Deep Learning]] by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [[http://incompleteideas.net/book/ebook/the-book.html][Reinforcement Learning: An Introduction]] by Richard Sutton
